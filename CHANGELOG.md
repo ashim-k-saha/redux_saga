@@ -105,6 +105,13 @@ Proper usage example :
 
 - Redux 5.0.0 and version upgrades.
 
+## 3.0.3
+
+- Updated to null safety
+
+## 3.0.4
+
+- pub.dev fixex
 
 
 
